@@ -1,3 +1,4 @@
+namespace TwoSum0001;
 /* 
 Problem: Two Sum (LeetCode #1)
 Link: https://leetcode.com/problems/two-sum/description/

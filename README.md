@@ -42,7 +42,8 @@ dotnet test
 | Problem # | Title | Status | Date Completed |
 |-----------| ------|--------|----------------|
 | 0001 | Two Sum | ✅ Complete | 08/27/2025 |
-| 0002 | Add Two Numbers | ⏳ In Progress | MM/DD/YYYY |
+| 0002 | Add Two Numbers | ✅ Complete | 08/28/2025 |
+| 000# | TBA | ⏳ In Progress | MM/DD/YYYY |
 | 000# | TBA | ❌ Not Started | MM/DD/YYYY |
 
 ## Goals
