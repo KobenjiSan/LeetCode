@@ -39,13 +39,27 @@ dotnet test
 ````
 
 ## Progress Tracker
-| Problem # | Title | Status | Date Completed |
-|-----------| ------|--------|----------------|
-| 0001 | Two Sum | ✅ Complete | 08/27/2025 |
-| 0002 | Add Two Numbers | ✅ Complete | 08/28/2025 |
-| 0009 | Palindrome Number | ✅ Complete | 08/29/2025 |
-| 000# | TBA | ⏳ In Progress | MM/DD/YYYY |
-| 000# | TBA | ❌ Not Started | MM/DD/YYYY |
+| Problem # | Title | Status | Date Completed | DS/A Category |
+|-----------| ------|--------|----------------|---------------|
+| 0001 | Two Sum | ✅ Complete | 08/27/2025 | Hash Maps / Sets |
+| 0002 | Add Two Numbers | ✅ Complete | 08/28/2025 | Linked Lists |
+| 0009 | Palindrome Number | ✅ Complete | 08/29/2025 | Arrays & Strings |
+| 0283 | Move Zeroes | ⏳ In Progress | MM/DD/YYYY | Arrays & Strings |
+| 0242 | Valid Anagram | ❌ Not Started | MM/DD/YYYY | Hash Maps / Sets |
+| 0020 | Valid Parentheses | ❌ Not Started | MM/DD/YYYY | Stacks & Queues |
+| 0206 | Reverse Linked List | ❌ Not Started | MM/DD/YYYY | Linked Lists |
+| 0104 | Maximum Depth of Binary Tree | ❌ Not Started | MM/DD/YYYY | Trees & Graphs |
+| 0703 | Kth Largest Element in a Stream | ❌ Not Started | MM/DD/YYYY | Heaps / Priority Queue |
+| 0070 | Climbing Stairs | ❌ Not Started | MM/DD/YYYY | Dynamic Programming |
+| 1971 | Find if Path Exists in Graph | ❌ Not Started | MM/DD/YYYY | Union-Find (Graph) |
+| 0121 | Best Time to Buy and Sell Stock | ❌ Not Started | MM/DD/YYYY | Arrays & Strings |
+| 0349 | Intersection of Two Arrays | ❌ Not Started | MM/DD/YYYY | Hash Maps / Sets |
+| 0155 | Min Stack | ❌ Not Started | MM/DD/YYYY | Stacks & Queues |
+| 0141 | Linked List Cycle | ❌ Not Started | MM/DD/YYYY | Linked Lists |
+| 0101 | Symmetric Tree | ❌ Not Started | MM/DD/YYYY | Trees & Graphs |
+| 0215 | Kth Largest Element in an Array | ❌ Not Started | MM/DD/YYYY | Heaps / Priority Queue |
+| 0198 | House Robber | ❌ Not Started | MM/DD/YYYY | Dynamic Programming |
+| 0200 | Number of Islands | ❌ Not Started | MM/DD/YYYY | Union-Find (Graph) |
 
 ## Goals
 - ***Attempt*** one problem a day
