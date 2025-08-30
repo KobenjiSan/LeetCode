@@ -43,6 +43,7 @@ dotnet test
 |-----------| ------|--------|----------------|
 | 0001 | Two Sum | ✅ Complete | 08/27/2025 |
 | 0002 | Add Two Numbers | ✅ Complete | 08/28/2025 |
+| 0009 | Palindrome Number | ✅ Complete | 08/29/2025 |
 | 000# | TBA | ⏳ In Progress | MM/DD/YYYY |
 | 000# | TBA | ❌ Not Started | MM/DD/YYYY |
 
