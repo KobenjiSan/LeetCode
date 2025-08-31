@@ -82,7 +82,7 @@ public class Solution
 public class SolutionTest
 {
     [TestMethod]
-    public void TwoSum_ShouldReturn1_3_12_0_0_WhenNumsIs0_1_0_3_12()
+    public void MoveZeroes_ShouldReturn1_3_12_0_0_WhenNumsIs0_1_0_3_12()
     {
         var solution = new Solution();
         var nums = new int[] { 0, 1, 0, 3, 12 };
@@ -95,7 +95,7 @@ public class SolutionTest
     }
 
     [TestMethod]
-    public void TwoSum_ShouldReturn0_WhenNumsIs0()
+    public void MoveZeroes_ShouldReturn0_WhenNumsIs0()
     {
         var solution = new Solution();
         var nums = new int[] { 0 };
@@ -108,7 +108,7 @@ public class SolutionTest
     }
 
     [TestMethod]
-    public void TwoSum_ShouldReturn1_3_12_0_0_0_0_WhenNumsIs0_1_0_0_3_12_0()
+    public void MoveZeroes_ShouldReturn1_3_12_0_0_0_0_WhenNumsIs0_1_0_0_3_12_0()
     {
         var solution = new Solution();
         var nums = new int[] { 0, 1, 0, 0, 3, 12, 0 };
