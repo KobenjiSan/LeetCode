@@ -44,8 +44,8 @@ dotnet test
 | 0001 | Two Sum | ✅ Complete | 08/27/2025 | Hash Maps / Sets |
 | 0002 | Add Two Numbers | ✅ Complete | 08/28/2025 | Linked Lists |
 | 0009 | Palindrome Number | ✅ Complete | 08/29/2025 | Arrays & Strings |
-| 0283 | Move Zeroes | ⏳ In Progress | MM/DD/YYYY | Arrays & Strings |
-| 0242 | Valid Anagram | ❌ Not Started | MM/DD/YYYY | Hash Maps / Sets |
+| 0283 | Move Zeroes | ✅ Complete | 08/30/2025 | Arrays & Strings |
+| 0242 | Valid Anagram | ⏳ In Progress | MM/DD/YYYY | Hash Maps / Sets |
 | 0020 | Valid Parentheses | ❌ Not Started | MM/DD/YYYY | Stacks & Queues |
 | 0206 | Reverse Linked List | ❌ Not Started | MM/DD/YYYY | Linked Lists |
 | 0104 | Maximum Depth of Binary Tree | ❌ Not Started | MM/DD/YYYY | Trees & Graphs |
