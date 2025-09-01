@@ -28,8 +28,8 @@ README.md
 Clone the repo:
 
 ```bash
-git clone https://github.com/KobenjiSan/leetcode-solutions.git
-cd leetcode-solutions
+git clone https://github.com/KobenjiSan/LeetCode.git
+cd LeetCode
 ````
 
 Run tests with .NET:
