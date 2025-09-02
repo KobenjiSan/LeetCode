@@ -47,8 +47,8 @@ dotnet test
 | 0283 | Move Zeroes | ✅ Complete | 08/30/2025 | Arrays & Strings |
 | 0242 | Valid Anagram | ✅ Complete | 08/31/2025 | Hash Maps / Sets |
 | 0020 | Valid Parentheses | ✅ Complete | 09/01/2025 | Stacks & Queues |
-| 0206 | Reverse Linked List | ⏳ In Progress | MM/DD/YYYY | Linked Lists |
-| 0104 | Maximum Depth of Binary Tree | ❌ Not Started | MM/DD/YYYY | Trees & Graphs |
+| 0206 | Reverse Linked List | ✅ Complete | 09/02/2025 | Linked Lists |
+| 0104 | Maximum Depth of Binary Tree | ⏳ In Progress | MM/DD/YYYY | Trees & Graphs |
 | 0703 | Kth Largest Element in a Stream | ❌ Not Started | MM/DD/YYYY | Heaps / Priority Queue |
 | 0070 | Climbing Stairs | ❌ Not Started | MM/DD/YYYY | Dynamic Programming |
 | 1971 | Find if Path Exists in Graph | ❌ Not Started | MM/DD/YYYY | Union-Find (Graph) |
