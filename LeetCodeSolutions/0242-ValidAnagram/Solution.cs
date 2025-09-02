@@ -1,7 +1,7 @@
 namespace ValidAnagram0242;
 /* 
-Problem: Two Sum (LeetCode #1)
-Link: https://leetcode.com/problems/two-sum/description/
+Problem: Valid Anagram (LeetCode #242)
+Link: https://leetcode.com/problems/valid-anagram/description/
 
 Approach:
 - validate s & t are the same length
