@@ -1,5 +1,9 @@
 ## **LeetCode Solutions**
 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-8-brightgreen)
+![Language](https://img.shields.io/badge/Language-C%23-blue)
+![Tested](https://img.shields.io/badge/Unit%20Tests-MSTest-yellow)
+
 This repository contains my solutions to LeetCode problems, written in mostly C# with unit tests.  
 I use this repo to track my progress, strengthen problem-solving skills, and practice writing organized and tested code.
 
