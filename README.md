@@ -1,6 +1,6 @@
 ## **LeetCode Solutions**
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-8-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-9-brightgreen)
 ![Language](https://img.shields.io/badge/Language-C%23-blue)
 ![Tested](https://img.shields.io/badge/Unit%20Tests-MSTest-yellow)
 
@@ -53,8 +53,8 @@ dotnet test
 | 0020 | Valid Parentheses | ✅ Complete | 09/01/2025 | Stacks & Queues |
 | 0206 | Reverse Linked List | ✅ Complete | 09/02/2025 | Linked Lists |
 | 0104 | Maximum Depth of Binary Tree | ✅ Complete | 09/03/2025 | Trees & Graphs |
-| 0703 | Kth Largest Element in a Stream | ⏳ In Progress | MM/DD/YYYY | Heaps / Priority Queue |
-| 0070 | Climbing Stairs | ❌ Not Started | MM/DD/YYYY | Dynamic Programming |
+| 0703 | Kth Largest Element in a Stream | ✅ Complete | 09/04/2025 | Heaps / Priority Queue |
+| 0070 | Climbing Stairs | ⏳ In Progress | MM/DD/YYYY | Dynamic Programming |
 | 1971 | Find if Path Exists in Graph | ❌ Not Started | MM/DD/YYYY | Union-Find (Graph) |
 | 0121 | Best Time to Buy and Sell Stock | ❌ Not Started | MM/DD/YYYY | Arrays & Strings |
 | 0349 | Intersection of Two Arrays | ❌ Not Started | MM/DD/YYYY | Hash Maps / Sets |
