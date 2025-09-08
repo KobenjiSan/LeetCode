@@ -54,8 +54,8 @@ dotnet test
 | 0206 | Reverse Linked List | ✅ Complete | 09/02/2025 | Linked Lists |
 | 0104 | Maximum Depth of Binary Tree | ✅ Complete | 09/03/2025 | Trees & Graphs |
 | 0703 | Kth Largest Element in a Stream | ✅ Complete | 09/04/2025 | Heaps / Priority Queue |
-| 0070 | Climbing Stairs | ⏳ In Progress | MM/DD/YYYY | Dynamic Programming |
-| 1971 | Find if Path Exists in Graph | ❌ Not Started | MM/DD/YYYY | Union-Find (Graph) |
+| 0070 | Climbing Stairs | ✅ Complete | 09/08/2025 | Dynamic Programming |
+| 1971 | Find if Path Exists in Graph | ⏳ In Progress | MM/DD/YYYY | Union-Find (Graph) |
 | 0121 | Best Time to Buy and Sell Stock | ❌ Not Started | MM/DD/YYYY | Arrays & Strings |
 | 0349 | Intersection of Two Arrays | ❌ Not Started | MM/DD/YYYY | Hash Maps / Sets |
 | 0155 | Min Stack | ❌ Not Started | MM/DD/YYYY | Stacks & Queues |
